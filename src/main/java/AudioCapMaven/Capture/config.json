@@ -1,0 +1,7 @@
+{
+    "sampleRate": 8000,
+    "sampleSizeInBits": 8,
+    "channels": 1,
+    "timeToSave": 6000000000,
+    "saveDirectory": "/Users/ashwinikumar/temp/capture"
+}
